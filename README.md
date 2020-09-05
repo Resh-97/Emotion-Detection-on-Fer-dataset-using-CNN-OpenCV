@@ -10,12 +10,12 @@
 - Predict the facial expression of the uploaded image
 - Use OpenCV and Haar Cascade File to check the emotion in real time
 
-### Dataset:
+### Dataset: [Fer Dataset!!](https://www.kaggle.com/deadskull7/fer2013/download)
 **fer2013** is an open-source dataset that consists of 35,887 grayscale, 48x48 sized face images with 7 different emotions, all labelled.
 **Fer.csv** contains two columns, **emotion** and **pixels**. 
 
 ![Output 1](/images/fer.PNG)
 
--The **emotion** column contains a numeric code ranging from 0 to 6, inclusive, for the emotion that is present in the image. 
--The **pixels** column contains a string surrounded in quotes for each image 
--**Classes:** 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral
+- The **emotion** column contains a numeric code ranging from 0 to 6, inclusive, for the emotion that is present in the image. 
+- The **pixels** column contains a string surrounded in quotes for each image 
+- **Classes:** 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral

@@ -19,3 +19,9 @@
 - The **emotion** column contains a numeric code ranging from 0 to 6, inclusive, for the emotion that is present in the image. 
 - The **pixels** column contains a string surrounded in quotes for each image 
 - **Classes:** 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral
+
+### Output:
+
+- I was able to acheive a **test accuracy of 67%**.
+
+![Output 1](/images/anger.PNG)
